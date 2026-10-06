@@ -4,7 +4,7 @@
 ### **FiveM Architecture & Systems Development**
 
 <p align="center">
-  <a href="https://regletau.github.io/sponex-vrp-hub/">
+  <a href="https://regletau.github.io/">
     <img src="https://img.shields.io/badge/LIVE_HUB-SPONEX_vRP-09090b?style=for-the-badge&logo=github&logoColor=white&labelColor=18181b" alt="Live Hub" />
   </a>
   <img src="https://img.shields.io/badge/FRAMEWORK-vRP_&_DUNKO-09090b?style=for-the-badge&logo=lua&logoColor=white&labelColor=18181b" alt="vRP Framework" />
@@ -40,11 +40,12 @@ Tooling        ::  Git, GitHub Actions CI/CD, Visual Studio Code
       <h3 align="left">🕹️ SPONEX vRP Hub</h3>
       <p>Official repository & live distribution hub for optimized, standalone FiveM vRP resources.</p>
       <ul>
-        <li>⚡ <strong>Live Hub:</strong> <a href="https://regletau.github.io/sponex-vrp-hub/">regletau.github.io/sponex-vrp-hub</a></li>
+        <li>⚡ <strong>Live Hub:</strong> <a href="https://regletau.github.io/">regletau.github.io</a></li>
         <li>📦 <strong>Features:</strong> Real-time visitor presence, automated Supabase storage integration, 0.00ms resmon systems.</li>
         <li>🛡️ <strong>Compliance:</strong> 100% Cfx.re & Tebex Compliant open-source distribution.</li>
       </ul>
     </td>
+
     <td width="50%">
       <h3 align="left">🏦 Dunko vRP Banking & ATM Service</h3>
       <p>Modern banking ecosystem with high-end dark NUI concierge interface, deposits, withdrawals, and optimized SQL transactions.</p>
