@@ -6,12 +6,13 @@
 
 <br/>
 
-<a href="https://regletau.github.io/">
-  <img src="https://img.shields.io/badge/Official_Website-regletau.github.io-09090b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=27272a" alt="Website" />
+<a href="https://sponex-hub.github.io/">
+  <img src="https://img.shields.io/badge/Official_Website-sponex--hub.github.io-09090b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=27272a" alt="Website" />
 </a>
-<a href="https://regletau.github.io/">
+<a href="https://sponex-hub.github.io/">
   <img src="https://img.shields.io/badge/vRP_Resources-Free_Downloads-09090b?style=for-the-badge&logo=box&logoColor=white&labelColor=27272a" alt="Resources" />
 </a>
+
 
 
 <br/><br/>
@@ -49,9 +50,10 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://regletau.github.io/"><strong>SPONEX vRP Hub</strong></a><br/>
+        <a href="https://sponex-hub.github.io/"><strong>SPONEX vRP Hub</strong></a><br/>
         <sub>Asset delivery platform with real-time analytics & storage sync.</sub>
       </td>
+
       <td>
         <code>React</code> <code>TypeScript</code> <code>Supabase</code>
       </td>
