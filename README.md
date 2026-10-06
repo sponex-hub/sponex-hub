@@ -1,31 +1,39 @@
-### Sponex
+<div align="center">
 
-Independent developer focused on FiveM engine architecture, vRP frameworks, and bespoke client-server systems.
+# SPONEX
 
-- **Hub:** [regletau.github.io](https://regletau.github.io/)
-- **Specialization:** FiveM Lua, Dunko vRP, Native APIs, React / TypeScript NUI
-- **License Standards:** Standalone, Cfx.re & Tebex compliant open-source implementations
+### FiveM & vRP Systems Architecture
 
----
-
-#### Technical Focus
-
-```
-Game Systems   : Lua 5.4, FiveM Native API, vRP 1.0, Dunko, vRPex
-Client UI      : React, TypeScript, Tailwind CSS, HTML5 / CSS3 NUI
-Infrastructure : Supabase, PostgreSQL, WebSockets Realtime Engine
-Tooling        : Git, GitHub Actions, Visual Studio Code
-```
+<p align="center">
+  <a href="https://regletau.github.io/"><strong>🌐 Visit Official vRP Hub</strong></a> • 
+  <a href="https://regletau.github.io/"><strong>📥 Free Downloads</strong></a>
+</p>
 
 ---
 
-#### Active Projects
+</div>
 
-- **SPONEX vRP Hub** — Lightweight resource index and asset delivery platform for vRP environments ([regletau.github.io](https://regletau.github.io/)).
-- **Dunko vRP Banking & ATM Service** — Optimized banking system featuring discrete NUI interface and 0.00ms idle execution.
+### About
+
+Independent developer creating optimized, standalone systems for **FiveM** and **vRP Frameworks** (Dunko, vRP 1.0, vRPex). Focused on low resmon execution, modern responsive NUI interfaces, and clean code architecture.
 
 ---
 
-```
-contact: sponex.dev
-```
+### Resources & Projects
+
+- **[SPONEX vRP Hub](https://regletau.github.io/)** — Public directory for standalone vRP scripts and tools.
+- **Dunko Banking & ATM** — High-performance financial system with bespoke NUI interface.
+
+---
+
+### Technologies
+
+- **Server:** Lua 5.4, FiveM Native Engine API, vRP Frameworks, MySQL / oxmysql
+- **Interface:** React, TypeScript, Tailwind CSS, HTML5, CSS3 NUI
+- **Backend:** Supabase, PostgreSQL, WebSockets Realtime
+
+---
+
+<div align="center">
+  <sub>All resources distributed on the hub are standalone and compliant with Cfx.re & Tebex policies.</sub>
+</div>
