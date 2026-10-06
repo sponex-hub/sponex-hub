@@ -2,38 +2,82 @@
 
 # SPONEX
 
-### FiveM & vRP Systems Architecture
+**FiveM Architecture & Systems Development**
 
-<p align="center">
-  <a href="https://regletau.github.io/"><strong>🌐 Visit Official vRP Hub</strong></a> • 
-  <a href="https://regletau.github.io/"><strong>📥 Free Downloads</strong></a>
+<br/>
+
+<a href="https://regletau.github.io/">
+  <img src="https://img.shields.io/badge/LIVE_HUB-regletau.github.io-18181b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Hub" />
+</a>
+<a href="https://regletau.github.io/">
+  <img src="https://img.shields.io/badge/vRP_RESOURCES-FREE_DOWNLOADS-18181b?style=for-the-badge&logo=box&logoColor=white" alt="vRP Resources" />
+</a>
+<a href="https://regletau.github.io/">
+  <img src="https://img.shields.io/badge/COMPLIANCE-CFX.RE_%26_TEBEX-18181b?style=for-the-badge&logo=shieldcheck&logoColor=white" alt="Compliance" />
+</a>
+
+<br/><br/>
+
+</div>
+
+---
+
+### Core Stack & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/FiveM_Native-000000?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
 
-</div>
+### Featured Systems
 
-### About
-
-Independent developer creating optimized, standalone systems for **FiveM** and **vRP Frameworks** (Dunko, vRP 1.0, vRPex). Focused on low resmon execution, modern responsive NUI interfaces, and clean code architecture.
-
----
-
-### Resources & Projects
-
-- **[SPONEX vRP Hub](https://regletau.github.io/)** — Public directory for standalone vRP scripts and tools.
-- **Dunko Banking & ATM** — High-performance financial system with bespoke NUI interface.
-
----
-
-### Technologies
-
-- **Server:** Lua 5.4, FiveM Native Engine API, vRP Frameworks, MySQL / oxmysql
-- **Interface:** React, TypeScript, Tailwind CSS, HTML5, CSS3 NUI
-- **Backend:** Supabase, PostgreSQL, WebSockets Realtime
+<table>
+  <thead>
+    <tr>
+      <th width="45%">Repository / Service</th>
+      <th width="35%">Framework & Tech</th>
+      <th width="20%">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://regletau.github.io/"><strong>SPONEX vRP Hub</strong></a><br/>
+        <sub>Asset delivery platform with real-time analytics & storage sync.</sub>
+      </td>
+      <td>
+        <code>React</code> <code>TypeScript</code> <code>Supabase</code>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Live-Online-success?style=flat-square" alt="Live" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://regletau.github.io/"><strong>Dunko vRP Banking & ATM</strong></a><br/>
+        <sub>Financial ecosystem with dark concierge NUI & 0.00ms resmon.</sub>
+      </td>
+      <td>
+        <code>vRP</code> <code>Lua 5.4</code> <code>NUI</code>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=flat-square" alt="Release" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 <div align="center">
-  <sub>All resources distributed on the hub are standalone and compliant with Cfx.re & Tebex policies.</sub>
+  <sub>© 2026 <strong>Sponex Developments</strong> • Dedicated FiveM vRP Engineering</sub>
 </div>
