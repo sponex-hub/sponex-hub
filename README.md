@@ -12,9 +12,7 @@
 <a href="https://regletau.github.io/">
   <img src="https://img.shields.io/badge/vRP_Resources-Free_Downloads-09090b?style=for-the-badge&logo=box&logoColor=white&labelColor=27272a" alt="Resources" />
 </a>
-<a href="https://regletau.github.io/">
-  <img src="https://img.shields.io/badge/Compliance-Cfx.re_%26_Tebex-09090b?style=for-the-badge&logo=github&logoColor=white&labelColor=27272a" alt="Compliance" />
-</a>
+
 
 <br/><br/>
 
